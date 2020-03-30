@@ -1,3 +1,3 @@
-# dw_matrix_road_sign
+# Matrix - 
 
-day_1 - założenie repozytorium, przygotowanie środowiska Colab, pobranie danych - 'signnames'
+day_1 - przygotowanie środowiska Colab, pobranie danych - 'signnames'
