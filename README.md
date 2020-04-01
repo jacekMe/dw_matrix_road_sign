@@ -6,3 +6,6 @@
 * day2 - analiza i wizualizacja danych - znaki drogowe
 
          data analysis and visualization - road sings
+* day3 - trenowanie pierwszego modelu - sieci konwolucyjne
+
+         training the first model - convolutional neural network
