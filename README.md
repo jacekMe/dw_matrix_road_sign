@@ -9,3 +9,6 @@
 * day3 - trenowanie pierwszego modelu - sieci konwolucyjne
 
          training the first model - convolutional neural network
+* day4 - wybór lepszej architektury - data augumentation
+
+         selection of better architecture - data augumentation
