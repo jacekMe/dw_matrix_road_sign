@@ -12,3 +12,6 @@
 * day4 - wybór lepszej architektury - data augumentation
 
          selection of better architecture - data augumentation
+* day5 - optymalizacja modelu za pomocą 'hyperopt'
+
+        model optimization using 'hyperopt'
